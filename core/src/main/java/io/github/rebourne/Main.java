@@ -1,4 +1,4 @@
-package io.github.godeater;
+package io.github.rebourne;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.graphics.OrthographicCamera;

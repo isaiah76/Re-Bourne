@@ -1,8 +1,8 @@
-package io.github.godeater.lwjgl3;
+package io.github.rebourne.lwjgl3;
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
-import io.github.godeater.Main;
+import io.github.rebourne.Main;
 
 public class Lwjgl3Launcher {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package io.github.godeater;
+package io.github.rebourne;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
@@ -10,7 +10,7 @@ import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Box2DDebugRenderer;
 import com.badlogic.gdx.physics.box2d.World;
 
-import static io.github.godeater.helper.Constants.PPM;
+import static io.github.rebourne.helper.Constants.PPM;
 
 public class GameScreen extends ScreenAdapter {
     private final OrthographicCamera camera;
